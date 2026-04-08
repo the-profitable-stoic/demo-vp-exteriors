@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-vp-exteriors.dream-surge.com/sitemap-index.xml

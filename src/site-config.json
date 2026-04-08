@@ -1,0 +1,560 @@
+{
+  "business": {
+    "name": "VP Exteriors",
+    "phone": "+13172039501",
+    "category": "gutter installation",
+    "city": "Indianapolis",
+    "state": "IN"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-dark-premium",
+      "categoryGroup": "roofing",
+      "name": "Dark Premium",
+      "recipeFile": "roofing/dark-premium.astro",
+      "colors": {
+        "primary": "#FF6B35",
+        "primaryDark": "#E05A2B",
+        "primaryLight": "#FFD4C2",
+        "secondary": "#2A2A2A",
+        "accent": "#FF8C5A",
+        "background": "#1A1A1A",
+        "backgroundAlt": "#111111",
+        "surface": "#2A2A2A",
+        "text": "#F5F5F5",
+        "textLight": "#A0A0A0",
+        "textOnDark": "#FFFFFF",
+        "border": "#3A3A3A"
+      },
+      "typography": {
+        "headingFont": "Space Grotesk",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "glow"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "dark",
+          "surface",
+          "dark",
+          "surface",
+          "dark"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/dark-premium"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Indianapolis's Gutter Experts",
+      "heroSubline": "Protecting your home from water damage with expert gutter installation and repair. Serving Indianapolis, Carmel, Fishers, and Noblesville.",
+      "aboutTitle": "Indianapolis's Trusted Gutter Professionals",
+      "aboutText": [
+        "VP Exteriors was founded over a decade ago right here in Indianapolis. We saw a need for reliable, high-quality gutter services, especially given our challenging Indiana weather. From Broad Ripple bungalows to newer developments in Fishers, we've kept homes dry across the metro area.",
+        "We believe in doing the job right the first time. That means using durable materials, employing skilled installers, and paying attention to every detail. We're not just installing gutters; we're protecting your investment.",
+        "VP Exteriors is committed to the Indianapolis community. We source materials locally whenever possible and actively support local organizations. We're proud to be a part of this city."
+      ],
+      "valueProps": [
+        {
+          "title": "Expert Installation",
+          "description": "Properly installed gutters are crucial for effective water management. Our team has the experience to handle any home, from historic Irvington to modern Carmel estates."
+        },
+        {
+          "title": "Durable Materials",
+          "description": "We use only the highest-quality materials designed to withstand Indiana's harsh weather, including heavy rain, snow, and ice."
+        },
+        {
+          "title": "Comprehensive Service",
+          "description": "From initial consultation to final inspection, we provide a seamless and hassle-free experience. We handle everything, so you don't have to worry."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "We understand the unique challenges of Indianapolis homes, including clay soil and freeze-thaw cycles, and tailor our solutions accordingly."
+        }
+      ],
+      "ctaHeadline": "Get a Free Gutter Inspection Today",
+      "ctaSubline": "Protect your home from water damage. Contact VP Exteriors for a no-obligation quote."
+    },
+    "services": [
+      {
+        "slug": "gutter-installation",
+        "name": "Gutter Installation",
+        "shortDescription": "Expert gutter installation to protect your Indianapolis home from water damage.",
+        "description": "Proper gutter installation is critical for preventing water damage to your home's foundation, siding, and landscaping. VP Exteriors offers comprehensive gutter installation services tailored to the specific needs of Indianapolis homes. We begin with a thorough assessment of your property, considering factors such as roof pitch, drainage patterns, and local weather conditions. Our team then recommends the best gutter system for your needs, whether it's seamless aluminum, copper, or steel. We install gutters with precision and care, ensuring proper slope and secure attachment to your fascia. We also offer downspout extensions to direct water away from your foundation. With our expert installation, you can rest assured that your home is protected from the damaging effects of rainwater and snowmelt. We understand the importance of proper drainage in Indianapolis, especially with our clay soil and frequent heavy rains. Our installations are designed to handle even the most challenging weather conditions, preventing costly repairs down the road.",
+        "process": [
+          "Step 1: Free Inspection & Consultation",
+          "Step 2: Customized Gutter System Design",
+          "Step 3: Professional Installation",
+          "Step 4: Final Inspection & Clean-Up"
+        ],
+        "benefits": [
+          "Prevents Water Damage",
+          "Protects Foundation",
+          "Enhances Curb Appeal",
+          "Increases Property Value"
+        ],
+        "faq": [
+          {
+            "question": "What type of gutters are best for Indianapolis homes?",
+            "answer": "Seamless aluminum gutters are a popular choice due to their durability and affordability. Copper gutters offer a more premium aesthetic and longer lifespan. Steel gutters provide superior strength for heavy snow loads."
+          },
+          {
+            "question": "How often should I clean my gutters?",
+            "answer": "Ideally, you should clean your gutters at least twice a year, typically in the spring and fall. However, if you have many trees around your property, you may need to clean them more frequently."
+          },
+          {
+            "question": "How long does gutter installation take?",
+            "answer": "The installation time depends on the size and complexity of your home. Most installations can be completed in one to two days."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-repair",
+        "name": "Gutter Repair",
+        "shortDescription": "Reliable gutter repair services to fix leaks, sags, and other common gutter problems.",
+        "description": "Damaged gutters can compromise their ability to protect your home from water damage. VP Exteriors provides prompt and reliable gutter repair services to address a wide range of issues, including leaks, sags, broken hangers, and damaged downspouts. We begin with a thorough inspection to identify the source of the problem and recommend the most effective repair solution. Our team is equipped to handle all types of gutter repairs, from patching small leaks to replacing entire sections of damaged gutters. We use high-quality materials and proven techniques to ensure long-lasting repairs. We also offer gutter cleaning services to remove debris and prevent future problems. Don't wait until a small gutter problem becomes a major headache. Contact VP Exteriors for expert gutter repair services. We understand the freeze-thaw cycle in Indianapolis can wreak havoc on gutters, causing cracks and leaks. We're experienced in addressing these specific challenges.",
+        "process": [
+          "Step 1: Thorough Inspection",
+          "Step 2: Detailed Repair Estimate",
+          "Step 3: Professional Repair Services",
+          "Step 4: Quality Assurance Check"
+        ],
+        "benefits": [
+          "Prevents Further Damage",
+          "Extends Gutter Lifespan",
+          "Saves Money on Costly Repairs",
+          "Restores Proper Drainage"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my gutters need repair?",
+            "answer": "Common signs of gutter damage include leaks, sagging, overflowing, and detached downspouts. If you notice any of these issues, it's important to have your gutters inspected by a professional."
+          },
+          {
+            "question": "Can I repair my gutters myself?",
+            "answer": "While some minor gutter repairs can be done DIY, it's generally best to hire a professional for more complex repairs. Improper repairs can lead to further damage and potential safety hazards."
+          },
+          {
+            "question": "How much does gutter repair cost?",
+            "answer": "The cost of gutter repair depends on the extent of the damage and the type of materials used. Contact us for a free estimate."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-cleaning",
+        "name": "Gutter Cleaning",
+        "shortDescription": "Professional gutter cleaning services to remove debris and prevent clogs.",
+        "description": "Clogged gutters can lead to a host of problems, including water damage, roof leaks, and pest infestations. VP Exteriors offers professional gutter cleaning services to remove leaves, twigs, and other debris from your gutters and downspouts. Our team uses specialized equipment to safely and effectively clean your gutters, ensuring proper water flow. We also inspect your gutters for any signs of damage and recommend necessary repairs. Regular gutter cleaning is essential for maintaining the health and integrity of your home. Don't risk climbing ladders and potentially injuring yourself. Let VP Exteriors handle the dirty work. We know that Indianapolis's trees can quickly fill gutters, especially in the fall. Our cleaning service is thorough and reliable.",
+        "process": [
+          "Step 1: Debris Removal",
+          "Step 2: Downspout Clearing",
+          "Step 3: Gutter Inspection",
+          "Step 4: Debris Disposal"
+        ],
+        "benefits": [
+          "Prevents Water Damage",
+          "Reduces Pest Infestations",
+          "Extends Gutter Lifespan",
+          "Maintains Home Value"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my gutters cleaned?",
+            "answer": "We recommend cleaning your gutters at least twice a year, in the spring and fall. If you have many trees around your home, you may need to clean them more frequently."
+          },
+          {
+            "question": "What happens if I don't clean my gutters?",
+            "answer": "Clogged gutters can cause water to overflow and damage your roof, siding, and foundation. They can also attract pests and lead to ice dams in the winter."
+          },
+          {
+            "question": "Is gutter cleaning a dangerous task?",
+            "answer": "Yes, gutter cleaning can be dangerous, especially if you're not comfortable working on ladders. It's always best to hire a professional to ensure the job is done safely and effectively."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-guard-installation",
+        "name": "Gutter Guard Installation",
+        "shortDescription": "Install gutter guards to prevent debris buildup and eliminate the need for frequent cleaning.",
+        "description": "Tired of cleaning your gutters? VP Exteriors offers gutter guard installation services to keep debris out of your gutters and eliminate the need for frequent cleaning. We offer a variety of gutter guard options to suit your specific needs and budget, including mesh screens, foam inserts, and surface tension systems. Our team will help you choose the best gutter guards for your home and install them with precision and care. With gutter guards, you can enjoy a maintenance-free gutter system and protect your home from water damage. We're familiar with the types of debris common in Indianapolis neighborhoods, from maple seeds to oak leaves. Our gutter guard solutions are designed to handle it all.",
+        "process": [
+          "Step 1: Gutter Assessment",
+          "Step 2: Gutter Guard Selection",
+          "Step 3: Professional Installation",
+          "Step 4: System Testing"
+        ],
+        "benefits": [
+          "Reduces Gutter Cleaning",
+          "Prevents Clogs",
+          "Protects Against Water Damage",
+          "Increases Gutter Lifespan"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of gutter guards?",
+            "answer": "Gutter guards prevent debris from entering your gutters, reducing the need for cleaning and preventing clogs. They also protect your home from water damage and extend the lifespan of your gutters."
+          },
+          {
+            "question": "What types of gutter guards are available?",
+            "answer": "We offer a variety of gutter guard options, including mesh screens, foam inserts, and surface tension systems. Our team can help you choose the best option for your needs."
+          },
+          {
+            "question": "How much do gutter guards cost?",
+            "answer": "The cost of gutter guards depends on the type of guards and the size of your home. Contact us for a free estimate."
+          }
+        ]
+      },
+      {
+        "slug": "downspout-installation",
+        "name": "Downspout Installation & Repair",
+        "shortDescription": "Proper downspout installation and repair to effectively channel water away from your foundation.",
+        "description": "Downspouts are a critical component of your gutter system, responsible for directing water away from your home's foundation. VP Exteriors provides expert downspout installation and repair services to ensure proper drainage and prevent water damage. We install downspouts with precision and care, ensuring they are properly connected to your gutters and positioned to effectively channel water away from your foundation. We also offer downspout extensions to further protect your foundation. If your downspouts are damaged or clogged, we can provide prompt and reliable repair services. We understand the importance of proper downspout placement in Indianapolis, where clay soil can exacerbate water damage issues. Our installations are designed to minimize the risk of foundation problems.",
+        "process": [
+          "Step 1: Site Assessment",
+          "Step 2: Downspout Design & Planning",
+          "Step 3: Professional Installation",
+          "Step 4: Drainage Testing"
+        ],
+        "benefits": [
+          "Protects Foundation",
+          "Prevents Water Damage",
+          "Reduces Soil Erosion",
+          "Maintains Property Value"
+        ],
+        "faq": [
+          {
+            "question": "Why are downspouts important?",
+            "answer": "Downspouts direct water away from your foundation, preventing water damage and soil erosion."
+          },
+          {
+            "question": "How do I know if my downspouts need repair?",
+            "answer": "Common signs of downspout damage include leaks, cracks, and clogs. If you notice any of these issues, it's important to have your downspouts inspected by a professional."
+          },
+          {
+            "question": "Where should my downspouts drain?",
+            "answer": "Downspouts should drain at least 10 feet away from your foundation, preferably into a drainage system or onto a sloped surface."
+          }
+        ]
+      },
+      {
+        "slug": "soffit-fascia-repair",
+        "name": "Soffit and Fascia Repair",
+        "shortDescription": "Protect your roof and home with expert soffit and fascia repair services.",
+        "description": "Soffit and fascia play a crucial role in protecting your roof and home from the elements. Soffit provides ventilation to prevent moisture buildup in your attic, while fascia provides a secure attachment point for your gutters. VP Exteriors offers expert soffit and fascia repair services to address damage caused by weather, pests, or age. We repair or replace damaged soffit and fascia with high-quality materials that are designed to withstand Indiana's harsh weather conditions. Our team ensures proper installation to maintain the integrity of your roof and protect your home from water damage. We understand that Indianapolis's fluctuating temperatures and humidity can take a toll on soffit and fascia. Our repair services are designed to extend the life of these critical components.",
+        "process": [
+          "Step 1: Inspection and Damage Assessment",
+          "Step 2: Material Selection",
+          "Step 3: Professional Repair or Replacement",
+          "Step 4: Quality Inspection and Sealing"
+        ],
+        "benefits": [
+          "Prevents Moisture Damage",
+          "Protects Roof",
+          "Enhances Curb Appeal",
+          "Increases Home Value"
+        ],
+        "faq": [
+          {
+            "question": "What is soffit and fascia?",
+            "answer": "Soffit is the material that covers the underside of your roof overhang, while fascia is the vertical board that runs along the edge of your roof. Both provide important protection for your roof and home."
+          },
+          {
+            "question": "How do I know if my soffit or fascia needs repair?",
+            "answer": "Common signs of damage include rot, decay, peeling paint, and pest infestations. If you notice any of these issues, it's important to have your soffit and fascia inspected by a professional."
+          },
+          {
+            "question": "Why is soffit ventilation important?",
+            "answer": "Soffit ventilation allows air to circulate in your attic, preventing moisture buildup and reducing the risk of mold and mildew growth."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Carmel",
+        "slug": "carmel-in",
+        "state": "IN",
+        "content": "VP Exteriors is proud to offer professional gutter installation and repair services to homeowners in Carmel, Indiana. Known for its upscale developments built primarily between the 1980s and 2000s, Carmel presents unique challenges and opportunities when it comes to gutter systems. We understand the architectural styles prevalent in neighborhoods like Clay Terrace and West Clay, and we tailor our services to ensure seamless integration with your home's aesthetic. \n\nCarmel experiences cold winters with significant snowfall and ice. This makes robust and properly functioning gutters essential for protecting your home from water damage caused by ice dams and heavy snowmelt. VP Exteriors offers a variety of gutter solutions designed to withstand the harsh Indiana climate, including seamless aluminum gutters, gutter guards, and ice melt systems.",
+        "localContext": "We're familiar with Carmel's specific building codes and HOA requirements to ensure a smooth and compliant installation process.",
+        "nearbyAreas": [
+          "Westfield",
+          "Zionsville",
+          "Fishers"
+        ]
+      },
+      {
+        "city": "Fishers",
+        "slug": "fishers-in",
+        "state": "IN",
+        "content": "VP Exteriors provides top-quality gutter services to the growing community of Fishers, Indiana. Fishers, characterized by its newer, master-planned communities developed from the 1990s through the 2020s, demands modern and efficient gutter solutions. We are experienced in working with the contemporary architectural styles found in neighborhoods such as Saxony and Hamilton Proper.\n\nGiven Fishers' cold winters, with considerable snow and ice, reliable gutter systems are critical for preventing water damage. VP Exteriors offers a comprehensive range of gutter services, including installation, repair, and maintenance, designed to protect your home from the elements. We provide seamless gutters, gutter guards, and de-icing systems to ensure your home remains safe and dry year-round.",
+        "localContext": "We're proud to serve the residents of Fishers and understand the importance of maintaining the value and integrity of your home.",
+        "nearbyAreas": [
+          "Noblesville",
+          "Carmel",
+          "McCordsville"
+        ]
+      },
+      {
+        "city": "Noblesville",
+        "slug": "noblesville-in",
+        "state": "IN",
+        "content": "VP Exteriors is dedicated to providing exceptional gutter installation and repair services to homeowners in Noblesville, Indiana. Known for its historic Courthouse Square area and diverse range of homes, Noblesville requires a gutter company that understands the nuances of older and newer properties. We have experience working with a variety of architectural styles, ensuring your gutter system complements your home's character.\n\nNoblesville experiences cold, snowy winters, making properly functioning gutters essential for protecting your home from water damage. VP Exteriors offers a wide selection of gutter solutions designed to withstand the Indiana climate, including seamless aluminum gutters, gutter guards, and ice melt systems. Whether you have a historic home near the square or a newer build in a planned community, we have the expertise to meet your needs.",
+        "localContext": "We are familiar with the local building codes and historic preservation guidelines in Noblesville.",
+        "nearbyAreas": [
+          "Fishers",
+          "Cicero",
+          "Westfield"
+        ]
+      },
+      {
+        "city": "Indianapolis",
+        "slug": "indianapolis-in",
+        "state": "IN",
+        "content": "VP Exteriors is your trusted gutter installation and repair expert in Indianapolis, Indiana. As the state capital and largest city in Indiana, Indianapolis features a diverse range of homes and architectural styles. From historic neighborhoods like Lockerbie Square to newer developments on the outskirts of the city, we have the experience to handle any gutter project.\n\nIndianapolis experiences a full range of seasons, including cold winters with snow and ice. Properly functioning gutters are essential for protecting your home from water damage caused by snowmelt and heavy rainfall. We offer a variety of gutter solutions to meet your needs, including seamless aluminum gutters, gutter guards, and gutter cleaning services.",
+        "localContext": "We understand the unique challenges of maintaining homes in Indianapolis, from dealing with older infrastructure to adapting to the changing climate.",
+        "nearbyAreas": [
+          "Carmel",
+          "Fishers",
+          "Greenwood"
+        ]
+      },
+      {
+        "city": "Westfield",
+        "slug": "westfield-in",
+        "state": "IN",
+        "content": "VP Exteriors is proud to serve the residents of Westfield, Indiana, with professional gutter installation and repair services. As one of the fastest-growing cities in Indiana, Westfield features a mix of established neighborhoods and new construction. We understand the importance of having reliable gutter systems to protect your home from the elements.\n\nWestfield experiences cold winters with significant snowfall, making properly functioning gutters essential for preventing water damage. VP Exteriors offers a variety of gutter solutions designed to withstand the Indiana climate, including seamless aluminum gutters, gutter guards, and ice melt systems. We are committed to providing top-quality workmanship and exceptional customer service.",
+        "localContext": "We are familiar with the building codes and neighborhood requirements in Westfield.",
+        "nearbyAreas": [
+          "Carmel",
+          "Zionsville",
+          "Noblesville"
+        ]
+      },
+      {
+        "city": "Zionsville",
+        "slug": "zionsville-in",
+        "state": "IN",
+        "content": "VP Exteriors delivers expert gutter installation and repair services to homeowners in Zionsville, Indiana. Known for its charming village atmosphere and well-maintained homes, Zionsville requires a gutter company that understands the importance of aesthetics and functionality. We are committed to providing seamless gutter solutions that complement your home's style.\n\nZionsville experiences cold winters with snow and ice, making reliable gutter systems essential for protecting your home from water damage. VP Exteriors offers a comprehensive range of gutter services, including installation, repair, and maintenance, designed to keep your home safe and dry. We provide seamless gutters, gutter guards, and de-icing systems to ensure your home is protected year-round.",
+        "localContext": "We appreciate Zionsville's commitment to quality and are dedicated to upholding those standards in our work.",
+        "nearbyAreas": [
+          "Carmel",
+          "Whitestown",
+          "Brownsburg"
+        ]
+      },
+      {
+        "city": "Brownsburg",
+        "slug": "brownsburg-in",
+        "state": "IN",
+        "content": "VP Exteriors is pleased to offer premier gutter services to the community of Brownsburg, Indiana. As a growing town with a mix of established and newer homes, Brownsburg residents need reliable gutter systems to protect their investments. We understand the importance of providing efficient and effective solutions tailored to your specific needs.\n\nBrownsburg experiences cold, snowy winters, making properly functioning gutters crucial for preventing water damage. VP Exteriors offers a wide selection of gutter solutions designed to withstand the Indiana climate, including seamless aluminum gutters, gutter guards, and ice melt systems. Whether you have a traditional home or a modern build, we have the expertise to meet your gutter needs.",
+        "localContext": "We are familiar with the local building regulations in Brownsburg.",
+        "nearbyAreas": [
+          "Avon",
+          "Plainfield",
+          "Zionsville"
+        ]
+      },
+      {
+        "city": "Avon",
+        "slug": "avon-in",
+        "state": "IN",
+        "content": "VP Exteriors provides top-notch gutter installation and repair services to homeowners in Avon, Indiana. Avon, with its mix of residential neighborhoods and commercial areas, requires a gutter company that can handle a variety of projects. We have the experience and expertise to deliver exceptional results, protecting your property from water damage.\n\nAvon experiences cold winters with significant snowfall, making properly functioning gutters essential for preventing water damage. VP Exteriors offers a variety of gutter solutions designed to withstand the Indiana climate, including seamless aluminum gutters, gutter guards, and ice melt systems. We are committed to providing top-quality workmanship and exceptional customer service in Avon.",
+        "localContext": "We proudly serve the residents of Avon and are dedicated to ensuring their homes are protected from the elements.",
+        "nearbyAreas": [
+          "Brownsburg",
+          "Plainfield",
+          "Indianapolis"
+        ]
+      },
+      {
+        "city": "Plainfield",
+        "slug": "plainfield-in",
+        "state": "IN",
+        "content": "VP Exteriors is dedicated to providing superior gutter services to the residents of Plainfield, Indiana. Plainfield, known for its friendly community and well-maintained properties, requires a gutter company that understands the importance of quality and reliability. We are committed to delivering exceptional results that protect your home from water damage.\n\nPlainfield experiences cold winters with snow and ice, making reliable gutter systems essential for protecting your home. VP Exteriors offers a comprehensive range of gutter services, including installation, repair, and maintenance, designed to keep your home safe and dry. We provide seamless gutters, gutter guards, and de-icing systems to ensure your home is protected year-round in Plainfield.",
+        "localContext": "We appreciate Plainfield's commitment to community and are dedicated to upholding those values in our work.",
+        "nearbyAreas": [
+          "Avon",
+          "Mooresville",
+          "Indianapolis"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Alicia M.",
+        "rating": 5,
+        "service": "Gutter Installation",
+        "text": "VP Exteriors did an amazing job installing new gutters on my home in Broad Ripple. They were professional, efficient, and the price was very reasonable. I highly recommend them!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Gutter Repair",
+        "text": "I had a leaky gutter after a bad storm, and VP Exteriors came out quickly and fixed it. They were honest and didn't try to sell me anything I didn't need. Great service!",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Sarah P.",
+        "rating": 5,
+        "service": "Gutter Cleaning",
+        "text": "VP Exteriors cleaned my gutters and downspouts, and now the water is flowing freely. They were thorough and left my property clean. Will definitely use them again!",
+        "date": "2024-09-01"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Gutter Guard Installation",
+        "text": "I had VP Exteriors install gutter guards, and so far, they've been working great. No more climbing ladders to clean out my gutters! The team was professional and the installation was quick.",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "Jennifer S.",
+        "rating": 5,
+        "service": "Downspout Repair",
+        "text": "Our downspout was completely detached from the house after a heavy rain. VP Exteriors came out the next day and fixed it securely. Very reliable and professional!",
+        "date": "2024-07-05"
+      },
+      {
+        "name": "Robert L.",
+        "rating": 4,
+        "service": "Soffit and Fascia Repair",
+        "text": "VP Exteriors did a great job repairing some damaged soffit on my home. They were professional, efficient, and the price was fair. I would definitely recommend them.",
+        "date": "2024-05-12"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "VP Exteriors: Indianapolis Gutter Experts",
+        "description": "Reliable gutter installation, repair, and cleaning in Indianapolis, IN. Protect your home from water damage. Free estimates!"
+      },
+      "about": {
+        "title": "About VP Exteriors: Indianapolis Gutter Company",
+        "description": "Learn about VP Exteriors, your trusted local gutter company in Indianapolis. Quality services and expert craftsmanship."
+      },
+      "services": {
+        "title": "VP Exteriors Services: Gutter Solutions Indianapolis",
+        "description": "Gutter installation, repair, cleaning, and gutter guards in Indianapolis. Protect your home with VP Exteriors."
+      },
+      "contact": {
+        "title": "Contact VP Exteriors: Indianapolis Gutter Experts",
+        "description": "Contact VP Exteriors for a free gutter inspection and estimate in Indianapolis, IN. Call +13172039501 today!"
+      },
+      "reviews": {
+        "title": "VP Exteriors Reviews: Indianapolis Gutter Services",
+        "description": "Read reviews from satisfied VP Exteriors customers in Indianapolis. Quality gutter services and reliable results."
+      },
+      "service-areas": {
+        "title": "VP Exteriors Service Areas: Gutter Installation",
+        "description": "VP Exteriors provides gutter services in Indianapolis, Carmel, Fishers, and Noblesville. Contact us today!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "gutter-installation": "/images/service-gutter-installation.webp",
+      "gutter-repair": "/images/service-gutter-repair.webp",
+      "gutter-cleaning": "/images/service-gutter-cleaning.webp",
+      "gutter-guard-installation": "/images/service-gutter-guard-installation.webp",
+      "downspout-installation": "/images/service-downspout-installation.webp",
+      "soffit-fascia-repair": "/images/service-soffit-fascia-repair.webp"
+    },
+    "servicesResponsive": {
+      "gutter-installation": {
+        "src": "/images/service-gutter-installation.webp",
+        "srcset": "/images/service-gutter-installation-400w.webp 400w, /images/service-gutter-installation-800w.webp 800w, /images/service-gutter-installation-1200w.webp 1200w, /images/service-gutter-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-repair": {
+        "src": "/images/service-gutter-repair.webp",
+        "srcset": "/images/service-gutter-repair-400w.webp 400w, /images/service-gutter-repair-800w.webp 800w, /images/service-gutter-repair-1200w.webp 1200w, /images/service-gutter-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-cleaning": {
+        "src": "/images/service-gutter-cleaning.webp",
+        "srcset": "/images/service-gutter-cleaning-400w.webp 400w, /images/service-gutter-cleaning-800w.webp 800w, /images/service-gutter-cleaning-1200w.webp 1200w, /images/service-gutter-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-guard-installation": {
+        "src": "/images/service-gutter-guard-installation.webp",
+        "srcset": "/images/service-gutter-guard-installation-400w.webp 400w, /images/service-gutter-guard-installation-800w.webp 800w, /images/service-gutter-guard-installation-1200w.webp 1200w, /images/service-gutter-guard-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "downspout-installation": {
+        "src": "/images/service-downspout-installation.webp",
+        "srcset": "/images/service-downspout-installation-400w.webp 400w, /images/service-downspout-installation-800w.webp 800w, /images/service-downspout-installation-1200w.webp 1200w, /images/service-downspout-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "soffit-fascia-repair": {
+        "src": "/images/service-soffit-fascia-repair.webp",
+        "srcset": "/images/service-soffit-fascia-repair-400w.webp 400w, /images/service-soffit-fascia-repair-800w.webp 800w, /images/service-soffit-fascia-repair-1200w.webp 1200w, /images/service-soffit-fascia-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
